@@ -28,3 +28,13 @@ The T2 chip is of course mostly undocumented. There is Windows drivers to make B
 Earlier efforts started in 2019 like aunali1's linux-mbp-arch, roadrunner2's macbook12-spi-driver, and McMrARM's mbp2018-bridge-drv. In the same year, Linux incorporated T2-modified NVMe support into the kernel. Other modules didn't make it. These early out-of-tree modules provided much needed keyboard, trackpad, and Touch Bar support. But those modules were far from perfect. They didn't work reliably, and sometimes outright crashed. Of course, effort for better quality modules continued.
 
 In 2020, t2linux was created. Finally a team dedicated to better support T2 Macs. Also this year, Project Sandcastle was released. It was a project to port Android to the iPhone. How is this relevant? Well, they did release a spinoff one-time release for Apple Silicon Macs this finally provided working Wi-Fi for T2 Macs. Those two things weren't supported before due to more modern Broadcom firmware requirement. There was earlier effort by aunali1, but it only supported firmware from Mojave or earlier so some newer T2 Macs could't use Wi-fi. It worked, but it was far from perfect. It was poorly written, unstable, and not mainlineable. This was later solved by Asahi Linux team. This also made BCM4377 Bluetooth work despite some quirks.
+
+Still, we are far from perfect. Some modules can't be upstreamed, and they're buggy. We're making some progresses though, like finally getting GPU switching working for 15 and 16 inch models. Sometimes everything would be upstreamed.
+
+# Demo
+
+Well, you got to see the real thing running Linux so here it is!
+
+*plug Ubuntu stick in, boot to it*
+
+# Done?
