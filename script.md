@@ -3,7 +3,7 @@ NH: NoaHimesaka1873 MV: mikroskeem NX: networkexception
 
 NH: Hello, I'm Woohyun Cho. I maintain Arch Linux packages and ISOs for t2linux. I also run Linux mirror.  
 MV: Hi, I'm Mark - I founded T2Linux Discord community, and was one of the initial testers of MCMrARM's Apple BCE driver. I also maintained NixOS for T2 macs for some time, and still occassionally help people out when needed.  
-NX: _tbd_
+NX: Well hello, my name is networkException. I've started and maintain the wiki to document everything a user needs to get their t2 system up and running with Linux.
 
 # Your PC vs T2 Mac
 
