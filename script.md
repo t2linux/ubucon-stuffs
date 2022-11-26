@@ -33,9 +33,11 @@ Currently, we are working on improving the quality of the touchbar and T2 bridge
 
 # Demo
 
-Well, now it's time to see this Mac run Linux! Since this is Ubucon, we'll show it run Ubuntu!
+Well, now it's time to see this Mac run Linux! Since this is Ubucon, naturally we'll show it running Ubuntu.
 
 *plug Ubuntu stick in, boot to it*
+
+Actually before we continue with the presentation, we need to copy Wi-Fi firmware in place. We're not allowed to distribute this firmware freely with ISOs, so this must be done manually.
 
 *demonstrate*
 
